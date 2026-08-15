@@ -97,15 +97,11 @@ Open and execute the included notebook:
 vertex_ai_scientific_rag_benchmark.ipynb
 
 🛠️ Tech Stack
-Large Language Model: Google Cloud Vertex AI gemini-2.5-flash
-
-Embedding Model: Google Cloud Vertex AI text-embedding-004
-
-Vector Store: ChromaDB
-
-Orchestration & Splitting: LangChain Text Splitters
-
-Document Parsing: PyPDF
+* Large Language Model: Google Cloud Vertex AI gemini-2.5-flash
+* Embedding Model: Google Cloud Vertex AI text-embedding-004
+* Vector Store: ChromaDB
+* Orchestration & Splitting: LangChain Text Splitters
+*Document Parsing: PyPDF
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
